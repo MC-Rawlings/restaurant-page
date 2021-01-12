@@ -82,7 +82,7 @@ main {
 
 .hero-section {
     background: linear-gradient( rgba(99, 64, 64, 0.5), rgba(0, 0, 0, 0.5) ), 
-    url("../images/emy-XoByiBymX20-unsplash.jpg");
+    url("images/emy-XoByiBymX20-unsplash.jpg");
     color: white;
     display: flex;
     flex-direction: column;
@@ -146,7 +146,7 @@ main {
 
 .contact-page {
     background: linear-gradient( rgba(99, 64, 64, 0.5), rgba(0, 0, 0, 0.5) ), 
-    url("../images/restaurant.jpg");
+    url("images/restaurant.jpg");
     height: calc(100vh - 8.5rem);
     padding-top: 8.5rem;
     display: flex;
