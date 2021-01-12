@@ -27,13 +27,13 @@ const renderMenu = () => {
     const menu = document.createElement("main");
     menu.classList.add("menu");
 
-    const burger = renderMenuItem("../src/images/burger.jpg",
+    const burger = renderMenuItem("../dist/css/images/burger.jpg",
     "Beef Burger", "200g burger, served with chips");
 
-    const pizza = renderMenuItem("../src/images/pizza.jpg", 
+    const pizza = renderMenuItem("../dist/css/images/pizza.jpg", 
     "Pizza", "Chourico, olives and tomato topped with basil");
 
-    const salad = renderMenuItem("../src/images/salad.jpg", 
+    const salad = renderMenuItem("../dist/css/images/salad.jpg", 
     "Salad", "Mediterranean style stopped wity parsley");
 
     menu.appendChild(burger);
